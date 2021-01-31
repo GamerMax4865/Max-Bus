@@ -1,8 +1,0 @@
-{
-“name”: “greeter-bot”,
-“version”: “1.0.0”,
-“description”: “Regarde Les Membre De La Compagny”,
-“main”: “bot.js”,
-“author”: “Thélo”,
-“dependencies”: {}
-}
